@@ -11,7 +11,7 @@ FLUSH PRIVILEGES;
 ```
 
 ### <a target="_blank" href="https://code.choerodon.com.cn/hzero-hzero/hzero-resource/tree/0.11.0.RELEASE"><b>hzero-resource</b></a>
-表结构及初始化数据在 <a target="_blank" href="https://code.choerodon.com.cn/hzero-hzero/hzero-resource/tree/1.2.1.RELEASE"><b>hzero-resource</b></a> 项目下。
+表结构及初始化数据在 <a target="_blank" href="https://code.choerodon.com.cn/hzero-hzero/hzero-resource/tree/1.3.0.RELEASE"><b>hzero-resource</b></a> 项目下。
 
 * groovy：表结构 groovy 脚本
 * init-data：初始化数据
